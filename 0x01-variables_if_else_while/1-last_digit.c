@@ -4,7 +4,11 @@
 
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/**
+ *main - print last digit in random number
+ *Description: print the last digit in random number
+ *Return: 0 if it is true
+ */
 int main(void)
 {
 	int n, last;
